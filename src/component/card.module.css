@@ -1,6 +1,6 @@
 .cardsContainer{
     max-width:80%;
-    border:1px solid red;
+    
     margin:0 auto;
     display: grid;
     grid-template-columns:1fr 2fr;
